@@ -18,10 +18,10 @@ body {
 
 .container {
     background-color: #5c54ed;
-    box-shadow: rgba(0, 0, 0, 0.34) 0px 3px 8px;
+    box-shadow: rgba(197, 0, 0, 0.34) 0px 3px 8px;
     padding: 2rem;
     color: #fefefe;
-    border-radius:  1 rem;
+    border-radius:  5 rem;
 }
 
 .form h3 {
