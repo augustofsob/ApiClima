@@ -39,7 +39,7 @@ body {
     border-radius: 4px;
 }
 .form button {
-    padding: 0.rem;
+    padding: 0.8rem;
     min-width: 50px;
     margin-left: 8px;
     background-color: #8dd0fa;
@@ -63,3 +63,39 @@ body {
     margin-bottom: 0.6rem;
 }
 
+#weather-data h2 i{
+    font-size: 1rem;
+}
+
+#weather-data span {
+    margin: 0.6rem;
+}
+
+#country {
+    height: 30px;
+}
+
+#description-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.6rem 0;
+}
+
+#description {
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+
+#details-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#details-container #humidity {
+    border-right: 1px solid #fff;
+    margin: 0.6rem;
+    padding: 0.6rem;
+}
