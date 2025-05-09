@@ -130,7 +130,7 @@ body {
 
 
 #toggle-map-btn {
-    position: relative;
+    position: absolute;
     bottom: 30px;
     right: 30px;
     background-color: #ff0000;
